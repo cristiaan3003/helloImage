@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 .idea/
 .test.csv.swp
 __pycache__/
 clases.backup/
 clases/
-=======
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -94,4 +94,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
->>>>>>> d3bdfac6439c02b61befbd42754900db9430aa9f
